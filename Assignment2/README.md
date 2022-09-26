@@ -1,7 +1,7 @@
 This is my set of answers to Assignment 2:
 
 Print Exercises
-
+1. 
 2. No variables show up in the variable editor
 
 Operation Exercises
@@ -20,11 +20,11 @@ Boolean exercises
 1. 1 and 1.0 are equivalent because Python doesn't require that 2 items be the same type to consider them equal. However, "1" and "1.0" are no equivalent because they are both strings and the strings are not the same as each other. For instance, it doesn't even view the numbers as numbers the same way it would if it was an integer or a float.
 2. Yes
 3. 
-print(1 == 1.0 and not "1" == "1.0" and 5 == (3+2))
+`print(1 == 1.0 and not "1" == "1.0" and 5 == (3+2))
 print(1 == 1.0 or "1" == "1.0" and 5 == (3+2))
 print(1 == 1.0 or "1" == "1.0" or 5 == (3+2))
 print(1 == 1.0 and not "1" == "1.0" and 5 == (3+2))
-print(1 == 1.0 and not "1" == "1.0" or 5 == (3+2))
+print(1 == 1.0 and not "1" == "1.0" or 5 == (3+2))`
 
 List Exercises
 1. Yes, oddlist became a variable.
@@ -34,4 +34,10 @@ List Exercises
 6. Yes
 
 Dictionary Exercise
-1. 
+1.
+`about me = {
+'name': 'Karl',
+'age': 21.0,
+'year': 4
+'Favorite foods': ['Sushi', 'Pizza', 'Burritos'],
+}`
