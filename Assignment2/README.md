@@ -27,4 +27,11 @@ print(1 == 1.0 and not "1" == "1.0" and 5 == (3+2))
 print(1 == 1.0 and not "1" == "1.0" or 5 == (3+2))
 
 List Exercises
+1. Yes, oddlist became a variable.
+3. It says 5
+4. Python calls oddlist a list
+5. `intlist = list(range(0, 101))`
+6. Yes
+
+Dictionary Exercise
 1. 
