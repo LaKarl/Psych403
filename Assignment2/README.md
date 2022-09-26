@@ -2,7 +2,6 @@ This is my set of answers to Assignment 2:
 
 Print Exercises
 
-1. Moved into folder
 2. No variables show up in the variable editor
 
 Operation Exercises
@@ -12,7 +11,7 @@ Operation Exercises
 4. Yes, python follows order of operations
 
 Variable Exercises
-1. Edited
+
 2. Yes, variables show up in the variable editor now.
 3. No, python does not have any problem with 2 ore more different variables having the same value
 5. No, changing the value of letterx does not change the value of the other value that had the same value of letterx before it was changed. Only letterx was changed.
