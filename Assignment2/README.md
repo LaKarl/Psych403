@@ -52,15 +52,15 @@ Array Exercises
 1. It printed everything in the array as a float even though we had 3 integers intially
 
 
-3. It prints everything as a string. We can see that arrays in Python are not like lists because we cannot have mixed types within them. Python converts them into a singular type
+2. It prints everything as a string. We can see that arrays in Python are not like lists because we cannot have mixed types within them. Python converts them into a singular type
 
-4.
+3.
 
 `
 oddarray = np.arange(1,100,2)
 `
 
-5.
+4.
 
 `logarray = np.logspace(1,5,16)`
 
