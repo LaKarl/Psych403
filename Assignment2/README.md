@@ -41,3 +41,17 @@ Dictionary Exercise
 'year': 4
 'Favorite foods': ['Sushi', 'Pizza', 'Burritos'],
 }`
+3. The length of about_me is 4. Python determines the length of dictionaries by the number of key-value pairs in them.
+
+Array Exercises
+1. It printed everything in the array as a float even though we had 3 integers intially
+2. It prints everything as a string. We can see that arrays in Python are not like lists because we cannot have mixed types within them. Python converts them into a singular type
+3.
+`import numpy as np
+oddarray = np.arange(1,100,2)
+print(oddarray)`
+4.
+`import numpy as np
+logarray = np.logspace(1,5,16)
+print(logarray)`
+
