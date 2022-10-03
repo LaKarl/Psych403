@@ -27,6 +27,7 @@ List operations exercise
 
 
 #['dodo','rere','mimi','fafa']
+
 `
 print([strlist[0]*2,strlist[1]*2,strlist[2]*2,strlist[3]*2])`
 
@@ -54,8 +55,8 @@ Indexing Exercises
 `print(colors[-2])
 `
 3.
-`print(colors[-2][2])
-print(colors[-2][3])`
+print(colors[-2][2])
+print(colors[-2][3])
 
 4. 
 `colors[-1]='indigo'
@@ -65,8 +66,9 @@ print(colors)`
 
 Slicing Exercises
 
-2. 
-print(list100[:10])
+2.
+
+`print(list100[:10])`
 
 3.
 temp=list100[1::2]
@@ -78,5 +80,6 @@ print(temp[::-1])
 
 5.
 
-print(list100[39:44]==[39,40,41,42,43])
+`print(list100[39:44]==[39,40,41,42,43])`
+
 Yes, they are the same
