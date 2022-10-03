@@ -36,7 +36,7 @@ print([strlist[0],strlist[0],strlist[1],strlist[1],strlist[2],strlist[2],strlist
 print([[strlist[0],strlist[0]],[strlist[1],strlist[1]],[strlist[2],strlist[2]],[strlist[3],strlist[3]]])
 
 Zipping Exercises
-
+1. See zippingexample.py
 
 
 Indexing Exercises
