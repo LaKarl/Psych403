@@ -70,6 +70,10 @@ print(colors)
 
 # Slicing Exercises
 
+1.
+`list100 = list(range(100)
+`
+
 2.
 `print(list100[:10])`
 
