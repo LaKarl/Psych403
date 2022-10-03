@@ -35,7 +35,12 @@ print([strlist[0],strlist[0],strlist[1],strlist[1],strlist[2],strlist[2],strlist
 
 print([[strlist[0],strlist[0]],[strlist[1],strlist[1]],[strlist[2],strlist[2]],[strlist[3],strlist[3]]])
 
+Zipping Exercises
+
+
+
 Indexing Exercises
+
 2. 
 print(colors[-2])
 
@@ -47,6 +52,7 @@ print(colors[-2][3])
 colors[-1]='indigo'
 colors.append('violet')
 print(colors)
+
 
 Slicing Exercises
 
