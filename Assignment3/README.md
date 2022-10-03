@@ -20,7 +20,7 @@ This is my set of answers to Assignment 3:
 
 `print((sub_code*3) + (subnr_str*3))`
 
-List operations exercise
+# List operations exercise
 
 2. In the list, the list is doubled. So, this meanss that the whole list gets multiplied by the number. In an arraay, each number is doubled. Which means the multiplication affects each number in the array.
 3.
@@ -44,12 +44,12 @@ print([strlist[0]*2,strlist[1]*2,strlist[2]*2,strlist[3]*2])`
 `print([[strlist[0],strlist[0]],[strlist[1],strlist[1]],[strlist[2],strlist[2]],[strlist[3],strlist[3]]])
 `
 
-Zipping Exercises
+# Zipping Exercises
 
 1. See zippingexample.py
 
 
-Indexing Exercises
+# Indexing Exercises
 
 2. 
 `print(colors[-2])
@@ -65,7 +65,7 @@ colors.append('violet')
 print(colors)`
 
 
-Slicing Exercises
+# Slicing Exercises
 
 2.
 `print(list100[:10])`
