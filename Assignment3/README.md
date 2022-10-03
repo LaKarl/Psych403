@@ -6,10 +6,10 @@ Variable Operations Exercise
 2. 
 #sub 2
 
-print (sub_code + " " + subnr_str)
+'print (sub_code + " " + subnr_str)'
 
 #sub 222
-print(sub_code + " " + (subnr_str*3))
+'print(sub_code + " " + (subnr_str*3))'
 
 #sub2sub2sub2
 print((sub_code + subnr_str)*3)
