@@ -73,10 +73,12 @@ print(colors)`
 
 3.
 temp=list100[1::2]
+
 print(temp[::-1])
 
 4.
 temp=list100[-4:]
+
 print(temp[::-1])
 
 5.
