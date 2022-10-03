@@ -46,7 +46,7 @@ print([strlist[0]*2,strlist[1]*2,strlist[2]*2,strlist[3]*2])`
 
 # Zipping Exercises
 
-1. See zippingexample.py
+1. See https://github.com/LaKarl/Psych403/blob/main/Assignment3/zippingexample.py
 
 
 # Indexing Exercises
