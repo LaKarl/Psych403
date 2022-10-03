@@ -62,7 +62,9 @@ print(colors[-2][3])
 
 4. 
 colors[-1]='indigo'
+
 colors.append('violet')
+
 print(colors)
 
 
