@@ -57,12 +57,13 @@ print([strlist[0]*2,strlist[1]*2,strlist[2]*2,strlist[3]*2])`
 
 3.
 print(colors[-2][2])
+
 print(colors[-2][3])
 
 4. 
-`colors[-1]='indigo'
+colors[-1]='indigo'
 colors.append('violet')
-print(colors)`
+print(colors)
 
 
 # Slicing Exercises
