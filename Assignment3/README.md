@@ -54,6 +54,7 @@ Indexing Exercises
 2. 
 `print(colors[-2])
 `
+
 3.
 print(colors[-2][2])
 print(colors[-2][3])
