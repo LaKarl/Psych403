@@ -42,7 +42,9 @@ print([strlist[0]*2,strlist[1]*2,strlist[2]*2,strlist[3]*2])`
 
 `print([[strlist[0],strlist[0]],[strlist[1],strlist[1]],[strlist[2],strlist[2]],[strlist[3],strlist[3]]])
 `
+
 Zipping Exercises
+
 1. See zippingexample.py
 
 
@@ -52,8 +54,7 @@ Indexing Exercises
 `print(colors[-2])
 `
 3.
-``print(colors[-2][2])
-`
+`print(colors[-2][2])
 print(colors[-2][3])`
 
 4. 
