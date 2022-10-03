@@ -67,8 +67,8 @@ print(colors)`
 Slicing Exercises
 
 2.
-
 `print(list100[:10])`
+
 
 3.
 temp=list100[1::2]
