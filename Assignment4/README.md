@@ -31,3 +31,9 @@ elif response=='':
 else:
     print('The subject pressed the wrong key')
  ```
+3. Yes it does
+
+### For Loop Exercise
+
+
+### While loop Exercise
