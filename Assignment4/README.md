@@ -51,4 +51,52 @@ for letter in name:
 ```
 
 3.
+```python
+names = ["Amy","Rory", "River"]
+for name in names:
+    for letter in name:
+        print(letter)
+```
+4.
+```python
+names = ["Amy","Rory", "River"]
+for name in names:
+    counter = -1
+    for letter in name:
+        counter += 1
+        print(letter)
+        print("Index at: " + str(counter))
+```
 ### While loop Exercise
+1.
+```python
+iteration=0
+while iteration<20:
+    if iteration<10:
+        print('%i:image1.png'%iteration)
+    elif iteration<20:
+        print('%i:image2.png'%iteration)
+    iteration+=1
+```
+
+2.
+```python
+import random
+
+response=None
+while response != "1" and response != "2":
+    images=random.randint(0,10)
+    print('randomimage'+str(images))
+    response = input()
+```
+3.
+```python
+import random
+failsafe = 5
+response=None
+while response != "1" and response != "2" and failsafe !=0:
+    images=random.randint(0,10)
+    print('randomimage'+str(images))
+    response = input()
+    failsafe-=1
+```
