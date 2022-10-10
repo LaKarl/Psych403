@@ -34,6 +34,21 @@ else:
 3. Yes it does
 
 ### For Loop Exercise
+1. 
+```python
+name = "Karl"
+for letter in name:
+    print(letter)
+```
 
+2.
+```python
+name = "Karl"
+counter = -1
+for letter in name:
+    counter +=1
+    print(name[counter])
+```
 
+3.
 ### While loop Exercise
