@@ -7,7 +7,7 @@ mon.setSizePix([3000,2000])
 win = visual.Window(monitor=mon, size=(800,800), color=(-1,-1,-1))
 my_image = visual.ImageStim(win, units='pix', size = (400,400))
 
-os.chdir('/Applications')
+os.chdir('/Pictures')
 main_dir = os.getcwd() 
 image_dir = os.path.join(main_dir,'images')
 
