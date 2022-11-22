@@ -21,9 +21,9 @@ See [DialogBox](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Dialogu
 1. [Question1](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Stimulus%231.py)
 2. [Question2](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Stimulus%232.py)
 3.
-'''python
+```python
 fix = visual.TextStim(win,text='+')
 fix_text.draw()
-'''
+```
 
 4. [Question4](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Stimulus%233.py)
