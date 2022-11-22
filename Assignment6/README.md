@@ -4,7 +4,9 @@ This is my set of answers for Assignment 6:
 
 
 See [DialogBox](https://github.com/LaKarl/Psych403/blob/main/Assignment6/DialogueBox.py) here.
+
 2. When the variable is set as fixed, the user isn't able to change the values for each session afterwards.
+
 5. 
 [Question 5](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Dialogue%20Box%232.py)
 
@@ -15,8 +17,13 @@ See [DialogBox](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Dialogu
 3. [Question3](https://github.com/LaKarl/Psych403/blob/main/Assignment6/monitorexercise.py)
 
 
-##Answers for Stimulus Exercise
+## Answers for Stimulus Exercise
 1. [Question1](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Stimulus%231.py)
-2. [Question2]()
+2. [Question2](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Stimulus%232.py)
 3.
+'''python
+fix = visual.TextStim(win,text='+')
+fix_text.draw()
+'''
+
 4. [Question4](https://github.com/LaKarl/Psych403/blob/main/Assignment6/Stimulus%233.py)
