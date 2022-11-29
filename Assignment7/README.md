@@ -11,8 +11,7 @@ The wait timer was fairly accurate as the time was only decimals a way each tria
 The wait timer is less accurate than in clock exercise 1. For instane, the numbers I got were, 2.0095846001058817, 2.0007066999096423, 2.0014476000797004.
 
 3. See [clockexercise3](https://github.com/LaKarl/Psych403/blob/main/Assignment7/clockexercise3.py) here. The countdown timer is less accurate than using core.wait. FOr instance, the numbers I got were, 2.0050985240417039, 2.000451662964962, 2.0009129162944672.
-4. See [clockexercise4] (https://github.com/LaKarl/Psych403/blob/main/Assignment7/clockexercise4.py) here.
-
+4. See [clockexercise4](https://github.com/LaKarl/Psych403/blob/main/Assignment7/clockexercise4.py) here.
 
 ## Frame-Based Timing Exercises
 1. See [frameexercise1](https://github.com/LaKarl/Psych403/blob/main/Assignment7/framexercise1.py) here. 
