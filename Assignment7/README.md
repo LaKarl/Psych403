@@ -14,5 +14,7 @@ The wait timer is less accurate than in clock exercise 1. For instane, the numbe
 
 
 ## Frame-Based Timing Exercises
-1. See [frameexercise2](https://github.com/LaKarl/Psych403/blob/main/Assignment7/frameexercise1.py) here. 
+1. See [frameexercise1](https://github.com/LaKarl/Psych403/blob/main/Assignment7/framexercise1.py) here. 
+2. See [Frameexercise2](https://github.com/LaKarl/Psych403/blob/main/Assignment7/frameexercise2.py) here. 
+No frames were dropped so I can keep this in my experiment.
 
