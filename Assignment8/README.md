@@ -26,6 +26,11 @@ with open('saved_csv.csv', 'w') as f:
        print(result)
        data_writer.writerow(result)
 ```
-## Save JSON exercises
+#Loading CSV
+import pandas as pd
 
-#Read Json exercises
+df=pd.read_csv('/Desktop/Psych403/image/savecsv_example.csv')
+print(df)
+
+mean = df['SubAcc'].mean()
+print(mean)
