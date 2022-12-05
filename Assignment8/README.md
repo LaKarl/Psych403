@@ -19,7 +19,7 @@ my_dict["CorrResp"].append()
 ## Save csv exercises
 ```python
 with open('saved_csv.csv', 'w') as f:
-    fieldnames = ['block', 'trial', 'problem','corr_resp','sub_resp','sub_acc', 'resp_time']
+    fieldnames = ['block', 'trial', 'prob','corr_resp','sub_resp','sub_acc', 'resp_time']
     data_writer = csv.DictWriter(f, fieldnames=fieldnames)
     data_writer.writeheader()
     for result in results:
