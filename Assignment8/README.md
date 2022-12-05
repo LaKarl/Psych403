@@ -26,11 +26,13 @@ with open('saved_csv.csv', 'w') as f:
        print(result)
        data_writer.writerow(result)
 ```
-#Loading CSV
-import pandas as pd
+## Loading CSV
 
+import pandas as pd
+```python
 df=pd.read_csv('/Desktop/Psych403/image/savecsv_example.csv')
 print(df)
 
 mean = df['SubAcc'].mean()
 print(mean)
+```
