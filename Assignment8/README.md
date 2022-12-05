@@ -17,7 +17,15 @@ my_dict["CorrResp"].append()
 
 2. See [Recording data2](https://github.com/LaKarl/Psych403/blob/main/Assignment8/RecordingData.py) here. 
 ## Save csv exercises
-
+```python
+with open('saved_csv.csv', 'w') as f:
+    fieldnames = ['block', 'trial', 'problem','corr_resp','sub_resp','sub_acc', 'resp_time']
+    data_writer = csv.DictWriter(f, fieldnames=fieldnames)
+    data_writer.writeheader()
+    for result in results:
+       print(result)
+       data_writer.writerow(result)
+```
 ## Save JSON exercises
 
 #Read Json exercises
